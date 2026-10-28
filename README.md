@@ -1,4 +1,6 @@
-![Banner](./images/PerfilMarcOC.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcochandotrabajo-oss/imagesPublic/main/PerfilMarcOC.png" alt="Banner de Marc Ochando" width="100%">
+</p>
 
 ¡Hola! 👋 Bienvenido/a soy Marc Ochando
 
