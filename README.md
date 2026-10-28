@@ -46,7 +46,11 @@ Yoga: Práctica habitual para mantener el equilibrio físico y mental.
 
 🤝 Trabajo en Equipo: Potenciado a través del deporte, el fútbol y la colaboración en entornos profesionales.
 
-📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcochandotrabajo-oss&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 🚀 Conectemos
 
