@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcochandotrabajo-oss/imagesPublic/main/PerfilMarcOC.png" alt="Banner de Marc Ochando" width="100%">
+  <img src="https://raw.githubusercontent.com/marcochandotrabajo-oss/imagesPublic/master/PerfilMarcOC.png" alt="Banner de Marc Ochando" width="100%">
 </p>
-
 ¡Hola! 👋 Bienvenido/a soy Marc Ochando
 
 Soy un apasionado de la tecnología, el desarrollo de software y la música. Combino mi base técnica en el ámbito de la informática con una sólida formación y sensibilidad artística.
