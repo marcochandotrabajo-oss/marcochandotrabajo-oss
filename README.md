@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcochandotrabajo-oss/imagesPublic/master/PerfilMarcOC.png" alt="Banner de Marc Ochando" width="100%">
+  <img src="[https://raw.githubusercontent.com/marcochandotrabajo-oss/images/main/PerfilMarcOC.png](https://github.com/marcochandotrabajo-oss/images/blob/main/PerfilMarcOC.png)" alt="Banner de Marc Ochando" width="100%">
 </p>
 ¡Hola! 👋 Bienvenido/a soy Marc Ochando
 
