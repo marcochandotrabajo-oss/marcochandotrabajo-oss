@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./PerfilMarcOC.png" alt="Banner de Marc Ochando">
+  <img src="./PerfilMarcOC.png">
 </p>
 
 ¡Hola! 👋 Bienvenido/a soy Marc Ochando
