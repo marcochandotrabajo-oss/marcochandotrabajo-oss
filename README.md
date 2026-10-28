@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Bienvenido/a soy Marc Ochando
+# ¡Hola! 👋 Bienvenido/a a mi perfil
 
 Soy un apasionado de la tecnología, el desarrollo de software y la música. Combino mi base técnica en el ámbito de la informática con una sólida formación y sensibilidad artística.
 
@@ -20,9 +20,12 @@ Fuera del código, dedico gran parte de mi tiempo al estudio de la música y otr
   * Estudio formal de solfeo y clases particulares de composición musical.
   * Toco la **guitarra** y disfruto componiendo mis propios temas.
   * **Próximo reto académico:** Tras aprobar el nivel elemental de solfeo, me prepararé para presentarme a la **prueba de acceso al Grado Profesional de música**.
+- **Programación en Java:** Disfruto practicando y construyendo proyectos utilizando Java y su ecosistema.
 - **Ajedrez:** Una disciplina que practico para entrenar el pensamiento estratégico, la lógica y la resolución de problemas.
+- **Videojuegos:** Apasionado del mundo de los videojuegos y el entretenimiento digital.
+- **Dibujo:** Espacio creativo dedicado al diseño y la ilustración.
+- **Deportes y Fútbol:** Práctica de actividad física y disfrute del fútbol como parte de un estilo de vida activo.
 - **Yoga:** Práctica habitual para mantener el equilibrio físico y mental.
-- Futbol y deporte
 
 ---
 
