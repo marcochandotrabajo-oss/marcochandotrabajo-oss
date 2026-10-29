@@ -69,6 +69,10 @@ Fuera del código, dedico gran parte de mi tiempo al estudio de la música y otr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcochandotrabajo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcochandotrabajo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 🚀 Conectemos
 
 ¿Quieres hablar de tecnología, desarrollo o proyectos musicales? ¡No dudes en contactar conmigo o explorar mis repositorios!
