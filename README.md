@@ -68,7 +68,7 @@ Markdown
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcochandotrabajo-oss&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub-Stats-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Banner" />
 </p>
 🚀 Conectemos
 
