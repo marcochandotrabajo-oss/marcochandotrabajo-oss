@@ -1,6 +1,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/marcochandotrabajo-oss/images/main/PerfilMarcOC.png" alt="Banner de Marc Ochando" width="100%">
 </p>
+
+Aquí puedes escuchar mis pistas de música originales creadas para videojuegos con copyright propio:
+
+<div align="center">
+
+  <!-- Banner o Botón interactivo para abrir el reproductor -->
+  <a href="https://marcochandotrabajo-oss.github.io/MUSICA-PARA-MIS-VIDEOJUEGO-CON-COPIRIGTH/" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_ABRIR_REPRODUCTOR_DE_MÚSICA-ff1e56?style=for-the-badge&logo=applemusic&logoColor=white" alt="Abrir Reproductor" width="380"/>
+  </a>
+
+  <p><em>Haz clic en el botón de arriba para abrir el reproductor interactivo con controles de Play, Pausa y Volumen.</em>[cite: 1, 2]</p>
+
+</div>
+
+---
 ¡Hola! 👋 Bienvenido/a soy Marc Ochando
 
 Soy un apasionado de la tecnología, el desarrollo de software y la música. Combino mi base técnica en el ámbito de la informática con una sólida formación y sensibilidad artística.
