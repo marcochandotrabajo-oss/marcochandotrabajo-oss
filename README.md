@@ -11,7 +11,7 @@ Aquí puedes escuchar mis pistas de música originales creadas para videojuegos 
     <img src="https://img.shields.io/badge/🎵_ABRIR_REPRODUCTOR_DE_MÚSICA-ff1e56?style=for-the-badge&logo=applemusic&logoColor=white" alt="Abrir Reproductor" width="380"/>
   </a>
 
-  <p><em>Haz clic en el botón de arriba para abrir el reproductor interactivo con controles de Play, Pausa y Volumen.</em>[cite: 1, 2]</p>
+  <p><em>
 
 </div>
 
