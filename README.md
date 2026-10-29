@@ -64,10 +64,11 @@ Fuera del código, dedico gran parte de mi tiempo al estudio de la música y otr
 
 🤝 Trabajo en Equipo: Potenciado a través del deporte, el fútbol y la colaboración en entornos profesionales.
 
+Markdown
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Stats-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcochandotrabajo&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 🚀 Conectemos
 
