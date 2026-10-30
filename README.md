@@ -64,7 +64,7 @@ Fuera del código, dedico gran parte de mi tiempo al estudio de la música y otr
 
 🤝 Trabajo en Equipo: Potenciado a través del deporte, el fútbol y la colaboración en entornos profesionales.
 
-Markdown
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
